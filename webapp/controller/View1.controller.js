@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("ZTEST_1.ZTEST_1.controller.View1", {
 		onInit: function () {
-
+			var test;
 		}
 	});
 });
